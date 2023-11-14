@@ -1,0 +1,8 @@
+[package]
+name = "minimal_table"
+description = "A minimal table implementation that renders a Vec<Vec<String>> to a string table."
+license = "MIT"
+repository = "https://github.com/sclausen/minimal_table"
+version = "0.2.0"
+edition = "2021"
+
